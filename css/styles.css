@@ -1,13 +1,50 @@
+/*******************************************TAG SELECTORS*******************************************/
+
+div {
+  background-color: #F0E9D2;
+
+}
+
 body {
-    background-color: #FFDCA9;
+    background-color: #FFFBEB;
+    margin: 0;
   }
 
-  hr {
+hr {
     background-color: none;
     border-style: dotted none none none;
-    border-color: white;
+    border-color: black;
     border-width: 5px;
     height: 0px;
     width;
+
   }
+
+img:hover { /*change color of images when hovering cursor over*/
+  background-color: white;
+}
+
+
+/*******************************************CLASS SELECTORS*******************************************/
+
+.sunset {
+  background-color: purple;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+
+/*******************************************ID SELECTORS*******************************************/
+
+#heading {
+  color: green;
+}
+
+
+
+
+
+
 
