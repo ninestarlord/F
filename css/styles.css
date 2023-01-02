@@ -41,6 +41,12 @@ img:hover { /*change color of images when hovering cursor over*/
   padding: 20px;
 }
 
+.div4 {
+  background-color: #C8DBBE;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
 /*******************************************CLASS SELECTORS*******************************************/
 
 .sunset {
@@ -61,6 +67,10 @@ img:hover { /*change color of images when hovering cursor over*/
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.table1 {
+  
 }
 
 /*******************************************ID SELECTORS*******************************************/
