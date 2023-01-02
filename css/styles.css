@@ -3,7 +3,12 @@
 body {
     background-color: #FFFBEB;
     margin: 0;
+    text-align: center;
   }
+
+h3 {
+  margin-top: 0;
+}
 
 hr {
     background-color: none;
@@ -18,6 +23,23 @@ img:hover { /*change color of images when hovering cursor over*/
   background-color: white;
 }
 
+/*******************************************DIV SELECTORS*******************************************/
+
+.div1 {
+  background-color: #F0E9D2;
+  padding: 20px;
+}
+
+.div2 {
+  background-color: #FFE15D;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.div3 {
+  background-color: #F49D1A;
+  padding: 20px;
+}
 
 /*******************************************CLASS SELECTORS*******************************************/
 
@@ -29,6 +51,17 @@ img:hover { /*change color of images when hovering cursor over*/
   border-radius: 100%;
 }
 
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 25px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
 
 /*******************************************ID SELECTORS*******************************************/
 
@@ -38,21 +71,7 @@ img:hover { /*change color of images when hovering cursor over*/
 
 
 
-/*******************************************DIV SELECTORS*******************************************/
 
-.div1 {
-  background-color: #F0E9D2;
-  padding: 20px;
-}
-
-.div2 {
-  background-color: #FFE15D;
-  padding: 20px;
-}
-.div3 {
-  background-color: #F49D1A;
-  padding: 20px;
-}
 
 
 
