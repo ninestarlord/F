@@ -4,6 +4,7 @@ body {
     background-color: #FFFBEB;
     margin: 0;
     text-align: center;
+     
   }
 
 h3 {
@@ -35,6 +36,9 @@ img:hover { /*change color of images when hovering cursor over*/
   padding-top: 80px;
   padding-bottom: 20px;
   position: relative;
+
+  font-family: 'Roboto', sans-serif;
+
 }
 .div3 {
   background-color: #F49D1A;
