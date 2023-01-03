@@ -1,5 +1,6 @@
 /*******************************************TAG SELECTORS*******************************************/
 
+
 body {
     background-color: #FFFBEB;
     margin: 0;
@@ -7,8 +8,17 @@ body {
      
   }
 
+h2 {
+  font-size: 187.5%; /*100% = 16px 1em=16px*/
+  font-family: 'Passions Conflict', cursive;
+}  
+
 h3 {
   margin-top: 0;
+}
+
+p {
+  
 }
 
 hr {
@@ -42,7 +52,7 @@ img:hover { /*change color of images when hovering cursor over*/
 }
 
 .middle-container {
-  background-color: #6F9A8D;
+  background-color: none;
 }
 .profile {
   background-color: #C0EEE4;
@@ -50,10 +60,15 @@ img:hover { /*change color of images when hovering cursor over*/
   padding-bottom: 10px;
 }
 .skills {
-  background-color: #F8F988;
+  background-color: #FFCAC8;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Sacramento', cursive;
 }
 .skill-row {
   background-color: #FFCAC8;
+  padding-top: 100;
+  padding-bottom: 10px;
 }
 .contact-me {
   background-color: #FF9E9E;
@@ -68,6 +83,8 @@ img:hover { /*change color of images when hovering cursor over*/
 }
 
 /*******************************************CLASS SELECTORS*******************************************/
+
+
 
 .sunset {
   background-color: purple;
@@ -95,11 +112,15 @@ img:hover { /*change color of images when hovering cursor over*/
 
 /*******************************************ID SELECTORS*******************************************/
 
-#heading {
-  color: green;
+
+
+#div2-Background-txt {
+  font-family: 'Sacramento', 'Passions Conflict', 'Lucida Handwriting', cursive;
 }
 
-
+#est-text {
+  font-family: 'Sacramento', 'Passions Conflict', 'Lucida Handwriting', cursive;
+}
 
 
 
