@@ -40,15 +40,31 @@ img:hover { /*change color of images when hovering cursor over*/
   font-family: 'Roboto', sans-serif;
 
 }
-.div3 {
-  background-color: #F49D1A;
-  padding: 20px;
+
+.middle-container {
+  background-color: #6F9A8D;
+}
+.profile {
+  background-color: #C0EEE4;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.skills {
+  background-color: #F8F988;
+}
+.skill-row {
+  background-color: #FFCAC8;
+}
+.contact-me {
+  background-color: #FF9E9E;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
-.div4 {
-  background-color: #C8DBBE;
+.bottom-container {
+  background-color: #F0DBDB;
   padding-top: 20px;
-  padding-bottom: 60px;
+  padding-bottom: 5px;
 }
 
 /*******************************************CLASS SELECTORS*******************************************/
