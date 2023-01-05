@@ -23,10 +23,11 @@ p {
 
 hr {
     background-color: none;
-    border-style: dotted none none none;
+    border-style: ;
     border-color: black;
-    border-width: 5px;
+    border-width: none;
     height: 0px;
+    margin: 0px;
 
   }
 
@@ -52,7 +53,9 @@ img:hover { /*change color of images when hovering cursor over*/
 }
 
 .middle-container {
-  background-color: none;
+  background-color: #C0EEE4;
+  padding-top: 10px;
+  padding-bottom: ;
 }
 .profile {
   background-color: #C0EEE4;
